@@ -1,4 +1,4 @@
-bc63520da6b408620564b39e97fcb1a1 *DESCRIPTION
+ec7f4d5507e1488af72a4c743e1e8308 *DESCRIPTION
 2a2032c3a597a90932702b6e415f4ff0 *NAMESPACE
 3f17a60f6c19bc1debbe818b9f1fcc62 *NEWS.md
 fcc0d2807973bd401e3760d6a3ef32d4 *R/catalog.R
@@ -8,11 +8,12 @@ ad0bd84b5f7080ebd8adaa89acdd7d46 *R/database.R
 49f3889cdf31ec9faf63f0298b49ff59 *R/tables.R
 d54d644d529e7beced708b0d771f94dc *R/tempview.R
 d4bf29c71e392d60ecf4042534443808 *R/utils.R
-829c48c2fc574850c0feb3e43d6e96e3 *README.md
-2bbfcb548320ff39131b7804142ccf95 *inst/tinytest/derby.log
-da7108efa77abb577ecfcf115c0e7636 *inst/tinytest/logs/log4j.spark.log
+6fbea9e5f91280a4f22f2862a554b4d2 *README.md
+2568adf62b9da52830a2c002aff2dcf3 *inst/tinytest/derby.log
+e7d99d62507adb0b414a911f8a0c8807 *inst/tinytest/logs/log4j.spark.log
 1c078252f2ee571dece41eff8da0acd2 *inst/tinytest/logs/log4j.spark.log.2021-03-14
 0c0ee7b12ba2eca925337a8498a66a68 *inst/tinytest/logs/log4j.spark.log.2021-03-16
+da7108efa77abb577ecfcf115c0e7636 *inst/tinytest/logs/log4j.spark.log.2021-03-18
 12c31f24437ca58ad95cdb09331e7a41 *inst/tinytest/test_columns.R
 9e640ece2560fcaefbe7ee883d342d7e *inst/tinytest/test_database.R
 b00c99b29ccac57d66cf1d7e15c03ec4 *inst/tinytest/test_functions.R
@@ -21,7 +22,7 @@ b00c99b29ccac57d66cf1d7e15c03ec4 *inst/tinytest/test_functions.R
 c1b026ee15b413c6a74ad559d068acd7 *inst/tinytest/test_tempview.R
 49c3f99894c53c2ef7bf226375f96aed *inst/tinytest/test_utils.R
 a9e75f1a6f4774d9a6b2b689ba8e0dc3 *man/cache_table.Rd
-349b97bb4c98ba2c7f43a404ea87aff8 *man/create_table.Rd
+1f72efb86c479baafb9540c89610cb24 *man/create_table.Rd
 09836b22a327d2405132786295da83c7 *man/current_database.Rd
 3b81e529ad0d775ab8f7cfc596a3ccb5 *man/database_exists.Rd
 4f25bbb0dceb62a613ce05aaa802e6a7 *man/drop_global_temp_view.Rd
